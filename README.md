@@ -13,7 +13,11 @@ Specific theory-algorithm correspondences are listed below.
 
 The course [notes](https://github.com/Liu-Hong-Wei/UCB-CS70-Spring-2024-Course-Materials/tree/main/notes) are also written in a very in-depth manner, with derivations of formulas and practical examples, providing a good reading experience.
 
-commendation from [csdiy](https://csdiy.wiki/en/%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/CS70/), click it to find more wonderful CS courses!
+***The commendation above from [csdiy](https://csdiy.wiki/en/%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/CS70/), click it to find more wonderful CS courses!***
 
 ## web snapshot
+used for schedule reference
 ![](https://github.com/Liu-Hong-Wei/UCB-CS70-Spring-2024-Course-Materials/blob/main/www.eecs70.org_.png)
+
+## review
+// TODO
