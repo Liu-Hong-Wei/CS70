@@ -11,7 +11,7 @@ Specific theory-algorithm correspondences are listed below.
 - Polynomial ring: error-correcting code design
 - Probability theory: Hash table design, load balancing, etc.
 
-The course [notes](https://github.com/Liu-Hong-Wei/UCB-CS70-Spring-2024-Course-Materials/tree/main/cs70_marterials/notes) are also written in a very in-depth manner, with derivations of formulas and practical examples, providing a good reading experience.
+The course [notes](https://github.com/Liu-Hong-Wei/UCB-CS70-Spring-2024-Course-Materials/tree/main/notes) are also written in a very in-depth manner, with derivations of formulas and practical examples, providing a good reading experience.
 
 commendation from [csdiy](https://csdiy.wiki/en/%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/CS70/), click it to find more wonderful CS courses!
 
